@@ -1,0 +1,13 @@
+-------------------------------- Factura JavaFlix --------------------------------
+
+
+-------------------------------- Fecha: 2021-06-13 -------------------------------
+
+
+------------------------------- Datos del cliente -------------------------------
+Nombre del cliente: paco
+DNI del cliente: 87654321A
+Numero de tarjeta: 1234 5678 9876 5432
+
+
+Precio de la suscripcion Premium: 15.99€
